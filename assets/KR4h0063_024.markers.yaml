@@ -30,6 +30,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KR4h0063_WYG_024-1a05}
   - {type: indent, offset: 12, content: 　　　, id: KR4h0063_krp_024-bkkind4}
   - {type: punctuation, offset: 20, content: (, id: KR4h0063_krp_024-bkkpn1}
+  - {type: voice, offset: 20, length: 30, name: note, id: n1}
   - {type: punctuation, offset: 30, content: /, id: KR4h0063_krp_024-bkkpn2}
   - {type: punctuation, offset: 40, content: ), id: KR4h0063_krp_024-bkkpn3}
   - {type: 'kr:newline', offset: 40, content: '
@@ -292,6 +293,7 @@ markers:
   - {type: line-break, offset: 1122, content: '', id: KR4h0063_WYG_024-4b02}
   - {type: indent, offset: 1122, content: 　　　, id: KR4h0063_krp_024-bkkind6}
   - {type: punctuation, offset: 1124, content: (, id: KR4h0063_krp_024-bkkpn7}
+  - {type: voice, offset: 1124, length: 59, name: note, id: n2}
   - {type: punctuation, offset: 1140, content: /, id: KR4h0063_krp_024-bkkpn8}
   - {type: punctuation, offset: 1156, content: ), id: KR4h0063_krp_024-bkkpn9}
   - {type: 'kr:newline', offset: 1156, content: '
@@ -621,6 +623,7 @@ markers:
   - {type: line-break, offset: 2459, content: '', id: KR4h0063_WYG_024-8b02}
   - {type: indent, offset: 2459, content: 　　　, id: KR4h0063_krp_024-bkkind9}
   - {type: punctuation, offset: 2467, content: (, id: KR4h0063_krp_024-bkkpn13}
+  - {type: voice, offset: 2467, length: 59, name: note, id: n3}
   - {type: substitution, offset: 2470, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 2477, content: /, id: KR4h0063_krp_024-bkkpn14}
   - {type: punctuation, offset: 2487, content: ), id: KR4h0063_krp_024-bkkpn15}
@@ -987,4 +990,4 @@ markers:
 
       ', id: KR4h0063_krp_024-bkkkrnewl215}
   back: []
-hash: sha256:5fef1d1b6d1edc35c48f05cac42bef516e3970ea8edc19118902bc2ea6e00df1
+hash: sha256:65bd0c687773b16d19cca57f5642030dfa714435c171832cc7abc0def0af3a21

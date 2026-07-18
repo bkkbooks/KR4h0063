@@ -29,6 +29,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR4h0063_WYG_011-1a05}
   - {type: indent, offset: 11, content: 　　　, id: KR4h0063_krp_011-bkkind4}
   - {type: punctuation, offset: 17, content: (, id: KR4h0063_krp_011-bkkpn1}
+  - {type: voice, offset: 17, length: 24, name: note, id: n1}
   - {type: punctuation, offset: 29, content: /, id: KR4h0063_krp_011-bkkpn2}
   - {type: punctuation, offset: 41, content: ), id: KR4h0063_krp_011-bkkpn3}
   - {type: 'kr:newline', offset: 41, content: '
@@ -494,6 +495,7 @@ markers:
   - {type: line-break, offset: 1861, content: '', id: KR4h0063_WYG_011-6b07}
   - {type: indent, offset: 1861, content: 　　　, id: KR4h0063_krp_011-bkkind7}
   - {type: punctuation, offset: 1868, content: (, id: KR4h0063_krp_011-bkkpn4}
+  - {type: voice, offset: 1868, length: 136, name: note, id: n2}
   - {type: punctuation, offset: 1879, content: /, id: KR4h0063_krp_011-bkkpn5}
   - {type: substitution, offset: 1882, original: 䕶, replacement: 護, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19873}}
   - {type: punctuation, offset: 1890, content: ), id: KR4h0063_krp_011-bkkpn6}
@@ -583,6 +585,7 @@ markers:
   - {type: line-break, offset: 2188, content: '', id: KR4h0063_WYG_011-7b05}
   - {type: indent, offset: 2188, content: 　　　, id: KR4h0063_krp_011-bkkind12}
   - {type: punctuation, offset: 2197, content: (, id: KR4h0063_krp_011-bkkpn19}
+  - {type: voice, offset: 2197, length: 64, name: note, id: n3}
   - {type: punctuation, offset: 2206, content: /, id: KR4h0063_krp_011-bkkpn20}
   - {type: punctuation, offset: 2215, content: ), id: KR4h0063_krp_011-bkkpn21}
   - {type: 'kr:newline', offset: 2215, content: '
@@ -781,4 +784,4 @@ markers:
 
       ', id: KR4h0063_krp_011-bkkkrnewl161}
   back: []
-hash: sha256:4643a9075e43dc154466de71939f50488cc8dec373225f8813fff878649f371f
+hash: sha256:f19a5ae90c88d6d8f330bb73cfd6cdef16f36e3268de247ef0df46e1900777e6

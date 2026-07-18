@@ -29,6 +29,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: KR4h0063_WYG_060-1a05}
   - {type: indent, offset: 10, content: 　　　, id: KR4h0063_krp_060-bkkind4}
   - {type: punctuation, offset: 14, content: (, id: KR4h0063_krp_060-bkkpn1}
+  - {type: voice, offset: 14, length: 10, name: note, id: n1}
   - {type: substitution, offset: 15, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 19, content: /, id: KR4h0063_krp_060-bkkpn2}
   - {type: substitution, offset: 21, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -109,6 +110,7 @@ markers:
   - {type: line-break, offset: 300, content: '', id: KR4h0063_WYG_060-2a04}
   - {type: indent, offset: 300, content: 　　　, id: KR4h0063_krp_060-bkkind5}
   - {type: punctuation, offset: 305, content: (, id: KR4h0063_krp_060-bkkpn4}
+  - {type: voice, offset: 305, length: 13, name: note, id: n2}
   - {type: substitution, offset: 306, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 312, content: /, id: KR4h0063_krp_060-bkkpn5}
   - {type: substitution, offset: 312, original: 䘮, replacement: 喪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19427}}
@@ -510,4 +512,4 @@ markers:
 
       ', id: KR4h0063_krp_060-bkkkrnewl107}
   back: []
-hash: sha256:8724318c3ba7cd891aee78dce636b195a66a0e6394b0f85e68a306986a889640
+hash: sha256:3d13675e294624e30092d5e77a205fb96effe98dc11f05a3f3ebf147bf3c5317

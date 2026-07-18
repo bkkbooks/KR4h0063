@@ -181,6 +181,7 @@ markers:
   - {type: line-break, offset: 519, content: '', id: KR4h0063_WYG_003-3a02}
   - {type: indent, offset: 519, content: 　　　, id: KR4h0063_krp_003-bkkind8}
   - {type: punctuation, offset: 524, content: (, id: KR4h0063_krp_003-bkkpn1}
+  - {type: voice, offset: 524, length: 13, name: note, id: n1}
   - {type: punctuation, offset: 531, content: /, id: KR4h0063_krp_003-bkkpn2}
   - {type: punctuation, offset: 537, content: ), id: KR4h0063_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 537, content: '
@@ -288,6 +289,7 @@ markers:
   - {type: line-break, offset: 900, content: '', id: KR4h0063_WYG_003-4a08}
   - {type: indent, offset: 900, content: 　　　, id: KR4h0063_krp_003-bkkind11}
   - {type: punctuation, offset: 905, content: (, id: KR4h0063_krp_003-bkkpn4}
+  - {type: voice, offset: 905, length: 21, name: note, id: n2}
   - {type: substitution, offset: 906, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 916, content: /, id: KR4h0063_krp_003-bkkpn5}
   - {type: substitution, offset: 920, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -341,6 +343,7 @@ markers:
   - {type: line-break, offset: 1055, content: '', id: KR4h0063_WYG_003-5a01}
   - {type: indent, offset: 1055, content: 　　　, id: KR4h0063_krp_003-bkkind13}
   - {type: punctuation, offset: 1061, content: (, id: KR4h0063_krp_003-bkkpn7}
+  - {type: voice, offset: 1061, length: 19, name: note, id: n3}
   - {type: punctuation, offset: 1071, content: /, id: KR4h0063_krp_003-bkkpn8}
   - {type: punctuation, offset: 1080, content: ), id: KR4h0063_krp_003-bkkpn9}
   - {type: 'kr:newline', offset: 1080, content: '
@@ -502,4 +505,4 @@ markers:
 
       ', id: KR4h0063_krp_003-bkkkrnewl107}
   back: []
-hash: sha256:53faf60cb5e5b9dd67512a737a9ba58f18ce1701f8399b621b942552d545b774
+hash: sha256:aa76193b4b6542f6b8d88e63deef886453623764787ce6a3606afd445e476812

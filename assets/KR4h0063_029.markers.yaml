@@ -97,6 +97,7 @@ markers:
   - {type: line-break, offset: 233, content: '', id: KR4h0063_WYG_029-2a03}
   - {type: indent, offset: 233, content: 　　　, id: KR4h0063_krp_029-bkkind7}
   - {type: punctuation, offset: 239, content: (, id: KR4h0063_krp_029-bkkpn1}
+  - {type: voice, offset: 239, length: 48, name: note, id: n1}
   - {type: substitution, offset: 250, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 251, content: /, id: KR4h0063_krp_029-bkkpn2}
   - {type: punctuation, offset: 263, content: ), id: KR4h0063_krp_029-bkkpn3}
@@ -189,6 +190,7 @@ markers:
   - {type: line-break, offset: 564, content: '', id: KR4h0063_WYG_029-3a04}
   - {type: indent, offset: 564, content: 　　　, id: KR4h0063_krp_029-bkkind11}
   - {type: punctuation, offset: 569, content: (, id: KR4h0063_krp_029-bkkpn7}
+  - {type: voice, offset: 569, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 574, content: /, id: KR4h0063_krp_029-bkkpn8}
   - {type: punctuation, offset: 579, content: ), id: KR4h0063_krp_029-bkkpn9}
   - {type: 'kr:newline', offset: 579, content: '
@@ -299,6 +301,7 @@ markers:
   - {type: line-break, offset: 960, content: '', id: KR4h0063_WYG_029-4b01}
   - {type: indent, offset: 960, content: 　　　, id: KR4h0063_krp_029-bkkind13}
   - {type: punctuation, offset: 965, content: (, id: KR4h0063_krp_029-bkkpn10}
+  - {type: voice, offset: 965, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 970, content: /, id: KR4h0063_krp_029-bkkpn11}
   - {type: punctuation, offset: 974, content: ), id: KR4h0063_krp_029-bkkpn12}
   - {type: 'kr:newline', offset: 974, content: '
@@ -501,4 +504,4 @@ markers:
 
       ', id: KR4h0063_krp_029-bkkkrnewl107}
   back: []
-hash: sha256:ca9bc302f6466d47e09d43c99e6a5bcb00061e3de6fd55043c8ec26a885d1cc5
+hash: sha256:d9e55e280e5a1d1e58dc8e39aa0280b3b378561de2eb2f7d4043fe886c350f42
